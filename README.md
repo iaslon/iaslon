@@ -1,143 +1,27 @@
 
-<h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Asliddin Tojaliyev!;Welcome+to+my+GitHub+Profile!">
-</h1>
+<h1 align="center">Hi 👋, I'm Aslonbek Khazratov</h1>
+<h3 align="center">A passionate Java backend developer from Uzbekistan</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="center">
-	<a href="https://github.com/uz-java" target="_self">
-		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-	</a>
-</h1>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahongir1303&label=Profile%20views&color=0e75b6&style=flat" alt="jahongir1303" /> </p>
 
+- 🌱 I’m currently learning **Microservices**
 
-### 📖 About me
+- 💬 Ask me about **Java, Spring**
 
-<hr>
-<pre>
-💻 I am Java backend and Database developer.
-📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C++
-🤔 I’m currently open for: this is <a href="http://164.92.229.130:9091/" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
+- 📫 How to reach me **info.khazratov@gmail.com**
 
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asliddintojaliyev/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asliddin0007)
-[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as0407)
-	
-</div>
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-&emsp;
-
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-  
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/jahongir-atametov-06a582252](https://www.linkedin.com/in/aslonbek-khazratov-b8a210255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahongir-atametov-06a582252" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jahongir1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahongir1997" height="30" width="40" /></a>
 </p>
 
-### 👉 Frameworks
-<p>
-	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;
-<!-- 	<img src="" />&nbsp;&nbsp; -->
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### 👉 Databases & Cloud Hosting
-<p>
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
- </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahongir1303&show_icons=true&locale=en&layout=compact" alt="jahongir1303" /></p>
 
- ### 👉 Software & Tools
- <p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahongir1303&show_icons=true&locale=en" alt="jahongir1303" /></p>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-	
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenApi-6BA539?&style=for-the-badge&logo=openapi-initiative&logoColor=F7F7F7" />&nbsp;&nbsp;
-	
-   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
- 
-	
-</p>
-
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="http://164.92.229.130:9090/"><b>Online Store website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/uz-java/Spring_mvc/tree/asliddin"><b>Library website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-### :fire: My Github Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://github.com/uz-java/)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000"
-    alt="adam-pw" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000)](https://github.com/uz-java/)
-
-</div>
-
-<h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
-</h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahongir1303&" alt="jahongir1303" /></p>
